@@ -1,0 +1,21 @@
+#magazine{
+	width: 600px;
+    height: 400px;
+     margin-left: auto;
+    margin-right: auto; 
+}
+#magazine .turn-page{
+    background-color:#ddd;
+}
+#magazine .hard{
+    background-color:#aaa;
+}
+#magazine img{
+    margin-right: 25px;
+}
+.moj {
+    padding: 15px;
+}
+.p1 {
+    text-align: center;
+}
