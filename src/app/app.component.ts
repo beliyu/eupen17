@@ -12,7 +12,7 @@ export class AppComponent implements  AfterViewInit {
 qs = [
   {p: 'Text 1', h: '132', i: '/assets/a1.jpg'},
   {p: 'Text 2', h: '465', i: '/assets/a2.jpg'},
-  {p: 'Text 3', h: '798', i: '/assets/a4.jpg'},
+  {p: 'Text 3', h: '798', i: '/assets/a3.jpg'},
 ];
 
 
